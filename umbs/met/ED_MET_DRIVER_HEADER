@@ -1,0 +1,9 @@
+'ED2 test case: University of Michigan Biological Station (UMBS)'
+1
+umbs/met/
+1 1 1 1 -84.6975 45.5625
+3
+13
+nbdsf nddsf vbdsf vddsf prate dlwrf pres hgt ugrd vgrd sh tmp co2
+21600 21600 21600 21600 21600 21600 21600 21600 21600 21600 21600 21600 380
+1 1 1 1 1 1 1 1 1 1 1 1 4
